@@ -4,6 +4,8 @@ creación de aplicaciones Android, a SVG. Este incluye un ejecutable que, usando
 genera documentos pdf que contienen dichos svg.
 De esta forma los documentos xml pueden ser exportados a diferentes ámbitos y aplicaciones.
 #### ¿Cómo lo hace?
+
+Es un proceso sencillo ya que lo que hace es modificar el nombre de las etiquetas y genera un nuevo documento.
 El programa escanea la carpeta en el cual se encuentra y toma los archivos XML que siguen esta estructura:
   ```
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
@@ -25,3 +27,5 @@ El programa escanea la carpeta en el cual se encuentra y toma los archivos XML q
   </svg>
   
   ```
+### ¿Cómo va el proyecto?
+An quedan cosas por implementar, está en una versión muy temprana  y sólo permite el paso de 1 sólo archivo que incluya una sola etiqueta <path>
