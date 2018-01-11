@@ -1,8 +1,7 @@
 # let-s-vg
 Utiliza el lenguaje de servidor **PHP** para convertir documentos de imagen vectorial en formato XML, usado en la 
-creación de aplicaciones Android, a SVG. Este incluye un ejecutable que, usando de fondo el programa [**Inkscape**](https://inkscape.org/en/)
-genera documentos pdf que contienen dichos svg.
-De esta forma los documentos xml pueden ser exportados a diferentes ámbitos y aplicaciones.
+creación de aplicaciones Android, a SVG. Para convertir tus SVG a PDF usa mi programa [**svg-a-pdf**](https://github.com/JoaquinBelloJimenez/svg-a-pdf-cadena).
+
 #### ¿Cómo lo hace?
 
 Es un proceso sencillo ya que lo que hace es modificar el nombre de las etiquetas y genera un nuevo documento.
@@ -28,4 +27,4 @@ El programa escanea la carpeta en el cual se encuentra y toma los archivos XML q
   
   ```
 ### ¿Cómo va el proyecto?
-An quedan cosas por implementar, está en una versión muy temprana  y sólo permite el paso de 1 sólo archivo que incluya una sola etiqueta <path>
+Aún quedan cosas por implementar, está en una versión muy temprana  y sólo permite el paso de 1 sólo archivo que incluya una sola etiqueta `<path>`
