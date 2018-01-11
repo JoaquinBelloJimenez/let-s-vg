@@ -26,6 +26,7 @@ El programa escanea la carpeta en el cual se encuentra y toma los archivos XML q
   </svg>
   
   ```
-### ¿Cómo va el proyecto?
-Parcialmente completo, debo revisar si existen errores.
-El resultado de las pruebas ha sido el esperado.
+#### Advertencia 😅
++ **Use este programa bajo su propia responsabilidad.**
++ **No me hago responsable de cualquier daño ocasionado en su equipo.**
++ **Haz un uso responsable de los permisos en aplicaciones.**
