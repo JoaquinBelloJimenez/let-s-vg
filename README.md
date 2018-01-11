@@ -27,4 +27,5 @@ El programa escanea la carpeta en el cual se encuentra y toma los archivos XML q
   
   ```
 ### ¿Cómo va el proyecto?
-Aún quedan cosas por implementar, está en una versión muy temprana  y sólo permite el paso de 1 sólo archivo que incluya una sola etiqueta `<path>`
+Parcialmente completo, debo revisar si existen errores.
+El resultado de las pruebas ha sido el esperado.
